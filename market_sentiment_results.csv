@@ -1,0 +1,4 @@
+date,vix,sentiment_label,score,crowd_behavior,market_vibe
+2026-04-08,18.9,Greedy,0.547,Investors confident buying risk assets,Optimistic
+2026-04-09,22.1,Fearful,-0.602,Investors reduce exposure become defensive,Cautious
+2026-04-10,24.8,Fearful,-0.691,Fear uncertainty selling risk assets,Uncertain

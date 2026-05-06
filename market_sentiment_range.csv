@@ -1,0 +1,63 @@
+date,vix,sentiment_label,score,crowd_behavior,market_vibe,headline_count,status
+2025-12-01,17.239999771118164,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-02,16.59000015258789,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-03,16.079999923706055,Neutral,0.078,Crowd awaits clear market direction,Uncertain,3,ok
+2025-12-04,15.779999732971191,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-05,15.40999984741211,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-06,15.40999984741211,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-07,15.40999984741211,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-08,16.65999984741211,Greedy,0.172,Investors await further market signals,Uncertain,3,ok
+2025-12-09,16.93000030517578,Neutral,0.061,Observing for future directional clarity,Uncertain,1,ok
+2025-12-10,15.770000457763672,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-11,14.850000381469727,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-12,15.739999771118164,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-13,15.739999771118164,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-14,15.739999771118164,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-15,16.5,Neutral,0.07,Watching for new market signals,Calm,1,ok
+2025-12-16,16.479999542236328,Greedy,0.56,Investors eagerly chase market gains,Optimistic,1,ok
+2025-12-17,17.6200008392334,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-18,16.8700008392334,Neutral,0.063,Investors anticipate central bank actions,Cautious,1,ok
+2025-12-19,14.90999984741211,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-20,14.90999984741211,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-21,14.90999984741211,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-22,14.079999923706055,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-23,14.0,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-24,13.470000267028809,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-25,13.470000267028809,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-26,13.600000381469727,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-27,13.600000381469727,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-28,13.600000381469727,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-29,14.199999809265137,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-30,14.329999923706055,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2025-12-31,14.949999809265137,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-01,14.949999809265137,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-02,14.510000228881836,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-03,14.510000228881836,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-04,14.510000228881836,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-05,14.899999618530273,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-06,14.75,Neutral,0.105,Awaiting clarity market calm prevails,Calm,2,ok
+2026-01-07,15.380000114440918,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-08,15.449999809265137,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-09,14.489999771118164,Greedy,0.67,Chasing gains with high hopes,Bullish,1,ok
+2026-01-10,14.489999771118164,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-11,14.489999771118164,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-12,15.119999885559082,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-13,15.979999542236328,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-14,16.75,Fearful,-0.215,Investors show increasing risk aversion,Cautious,2,ok
+2026-01-15,15.84000015258789,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-16,15.859999656677246,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-17,15.859999656677246,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-18,15.859999656677246,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-19,15.859999656677246,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-20,20.09000015258789,Fearful,-0.422,Investors anticipate future economic challenges,Wary,1,ok
+2026-01-21,16.899999618530273,Neutral,0.062,Calm steady waiting balanced patient,Balanced,1,ok
+2026-01-22,15.640000343322754,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-23,16.09000015258789,Neutral,0.078,Observing future economic data outlook,Anticipatory,1,ok
+2026-01-24,16.09000015258789,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-25,16.09000015258789,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-26,16.149999618530273,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-27,16.350000381469727,Neutral,0.073,Calm and cautious no strong,Balanced,2,ok
+2026-01-28,16.350000381469727,Neutral,0.073,Cautious investors assess economic outlook,Uncertain,1,ok
+2026-01-29,16.8799991607666,Neutral,0.132,Observing patiently anticipating future actions,Steady,1,ok
+2026-01-30,17.440000534057617,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
+2026-01-31,17.440000534057617,Neutral,0.0,No headlines available today,Neutral,0,no_headlines
