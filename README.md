@@ -1,4 +1,4 @@
-# Predicting Next-Quarter Stock Performance using Fundamentals, Quantitative Signals and Machine Learning
+# Using-basic-knowledge-quantitative-signals-and-machine-learning-to-make-predictions-about-stocks
 
 This project combines **fundamental analysis**, **market sentiment**, and **machine learning** to study and predict next-quarter stock performance.
 
